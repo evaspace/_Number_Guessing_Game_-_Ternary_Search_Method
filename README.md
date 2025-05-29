@@ -1,0 +1,2 @@
+# _Number_Guessing_Game_-_Ternary_Search_Method
+_Number_Guessing_Game_–_Ternary_Search_Method
